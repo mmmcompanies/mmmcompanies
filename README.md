@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and AI/ML
 - 💞️ I’m looking to collaborate on AI Bots
 - 📫 How to reach me ---> 
-- ✨ https://www.imutant.in/
+- ✨ (https://swtumadan.blogspot.com/)
 - ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
 <!---
